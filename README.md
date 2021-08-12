@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 
 
-![Finn's github stats](to.assets/api)](https://github.com/anuraghazra/github-readme-stats)
