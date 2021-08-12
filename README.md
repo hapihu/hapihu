@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Finn's github stats](to.assets/api)](https://github.com/anuraghazra/github-readme-stats)
